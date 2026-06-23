@@ -1,6 +1,7 @@
 # Consequence Agent
 
-A strategic decision simulator powered by Claude AI. Pick a crisis scenario, make decisions, and watch the AI analyze the consequences of every move.
+A strategic decision simulator powered by Claude AI. Pick a crisis scenario, make decisions, and watch the AI analyze the consequences of every move.\
+![Consequence Agent](screenshot.png)
 
 ## Built with
 - React 18 + Vite
